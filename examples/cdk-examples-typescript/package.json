@@ -23,6 +23,8 @@
     "pkglint": "^0.22.0"
   },
   "dependencies": {
+    "@aws-cdk/assets": "^0.22.0",
+    "@aws-cdk/aws-apigateway": "^0.22.0",
     "@aws-cdk/aws-autoscaling": "^0.22.0",
     "@aws-cdk/aws-cloudformation": "^0.22.0",
     "@aws-cdk/aws-cognito": "^0.22.0",
@@ -31,8 +33,11 @@
     "@aws-cdk/aws-ecs": "^0.22.0",
     "@aws-cdk/aws-elasticloadbalancing": "^0.22.0",
     "@aws-cdk/aws-elasticloadbalancingv2": "^0.22.0",
+    "@aws-cdk/aws-events": "^0.22.0",
     "@aws-cdk/aws-iam": "^0.22.0",
+    "@aws-cdk/aws-kinesis": "^0.22.0",
     "@aws-cdk/aws-lambda": "^0.22.0",
+    "@aws-cdk/aws-lambda-event-sources": "^0.22.0",
     "@aws-cdk/aws-neptune": "^0.22.0",
     "@aws-cdk/aws-rds": "^0.22.0",
     "@aws-cdk/aws-s3": "^0.22.0",
